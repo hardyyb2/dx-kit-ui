@@ -11,6 +11,18 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardyyb2/dx-kit-ui.git"
+  },
+  "keywords": [
+    "react",
+    "ui",
+    "components",
+    "typescript"
+  ],
+  "author": "Hardik Badola",
+  "license": "MIT",
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
